@@ -13,4 +13,5 @@
 заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.
 b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 #### Решение:
-![43](https://github.com/VyacheslavChik22/HomeworkGB_C_006/assets/99678206/5cc706f5-94ca-43cf-92e2-3ad9c7a2a453)
+![43](https://github.com/VyacheslavChik22/HomeworkGB_C_006/assets/99678206/da19a207-9518-4b4a-b0bb-fa2a240a5830)
+
